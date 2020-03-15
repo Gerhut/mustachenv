@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/Gerhut/mustachenv/badge.svg?branch=master)](https://coveralls.io/github/Gerhut/mustachenv?branch=master)
 [![dependencies Status](https://david-dm.org/Gerhut/mustachenv/status.svg)](https://david-dm.org/Gerhut/mustachenv)
 [![devDependencies Status](https://david-dm.org/Gerhut/mustachenv/dev-status.svg)](https://david-dm.org/Gerhut/mustachenv?type=dev)
-[![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/Gerhut/mustachenv.svg)](https://greenkeeper.io/)
+[![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) 
 
 Render mustache templates with environment variables.
 
